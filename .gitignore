@@ -59,5 +59,7 @@ typings/
 
 # next.js build output
 .next
-.vscode/launch.json
+.vscode
 .DS_Store
+/platforms
+/plugins
